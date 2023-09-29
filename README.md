@@ -15,6 +15,9 @@ I designed an alarm clock in this project. The current time can be found on the 
 
 ### Screenshot
 
+Alarm Clock:
+https://github.com/Mahdii-Kariimiian/Alarm-clock/blob/main/Screenshots/Alarm%20clock.png
+
 ### Links
 -Netlify: 
 ## My process
