@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
-    [alarm clock](#alarm clock)
+    [alarm clock](#alarmclock)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
